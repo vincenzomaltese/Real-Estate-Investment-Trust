@@ -1,4 +1,5 @@
 # King County Housing Prices Prediction
+![House Sales in King County](./Images/Real Estate Investment Trust.png)
 
 ## Table of Contents
 

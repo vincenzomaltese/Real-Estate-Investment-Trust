@@ -71,10 +71,6 @@ The dataset contains house sale prices for King County, USA, including Seattle. 
 ## Results
 
 - The model demonstrated a strong correlation between predicted and actual prices.
-- **Evaluation Metrics:**
-  - MAE: *TBD*
-  - MSE: *TBD*
-  - R²: *TBD*
 
 Visualizations include:
 - Feature importance plots.

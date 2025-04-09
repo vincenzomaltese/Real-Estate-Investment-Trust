@@ -75,13 +75,4 @@ Visualizations include:
 - Heatmaps showing correlations between key variables.
 - Predicted vs. actual price comparisons.
 
-## Usage
 
-1. Run the Jupyter Notebook:
-   ```bash
-   jupyter notebook House_Sales_in_King_Count_USA.ipynb
-   ```
-
-2. Follow the steps outlined in the notebook to explore the dataset, preprocess the data, and train the model.
-
-3. Modify or extend the notebook to experiment with different algorithms or hyperparameters.
